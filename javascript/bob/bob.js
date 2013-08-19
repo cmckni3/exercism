@@ -6,7 +6,7 @@ module.exports = function()
     var forceful = (message.toUpperCase() === message);
     if (message === '') return 'Fine. Be that way!';
     else if (forceful) return 'Woah, chill out!';
-    else if (question === true) return 'Sure.';
+    else if (question) return 'Sure.';
     return 'Whatever.';
   }
 }
