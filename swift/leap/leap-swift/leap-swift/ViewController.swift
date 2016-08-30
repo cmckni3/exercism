@@ -1,15 +1,15 @@
 //
 //  ViewController.swift
-//  Leap
+//  leap-swift
 //
-//  Created by Chris on 7/14/14.
-//  Copyright (c) 2014 Chris McKnight. All rights reserved.
+//  Created by Chris McKnight on 8/30/16.
+//  Copyright © 2016 Chris McKnight. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-                            
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
